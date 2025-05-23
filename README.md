@@ -35,7 +35,7 @@ Install the required Python packages before running the scripts:
 
 ```bash
 pip install tensorflow numpy matplotlib seaborn scikit-learn
-
+```
 
 ## 👩‍💻 Author
 Dunia Aljafare
