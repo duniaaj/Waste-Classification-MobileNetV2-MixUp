@@ -38,6 +38,6 @@ pip install tensorflow numpy matplotlib seaborn scikit-learn
 ```
 
 ## 👩‍💻 Author
-Dunia Aljafare
-Smart Systems Engineering
+Dunia Aljafare,
+Smart Systems Engineering,
 Palestine Ahliya University – Graduation Project 2025
